@@ -3,3 +3,6 @@ added second line
 new lines added to the code
 I added this from git please full the changes
 New branch changes in the files
+
+
+I am going to make changes before new branch commit
