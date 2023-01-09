@@ -1,12 +1,4 @@
 This is my second file
 added second line
-new lines added to the code
-I added this from git please full the changes
-New branch changes in the files
 
-
-
-This is again new branch comment
-
-I am doing some changes before new changes added
 
